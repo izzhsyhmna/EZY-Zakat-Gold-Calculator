@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
                 shareIntent.putExtra(
                         Intent.EXTRA_TEXT,
                         "Try my Gold Zakat Calculator App!\n\n" +
-                                "https://github.com/yourusername/zakatgoldcalculator"
+                                "https://github.com/izzhsyhmna/EZY-Zakat-Gold-Calculator"
                 );
 
                 startActivity(

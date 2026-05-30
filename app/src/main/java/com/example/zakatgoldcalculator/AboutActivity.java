@@ -23,7 +23,7 @@ public class AboutActivity extends AppCompatActivity {
             try {
                 Intent browserIntent = new Intent(
                         Intent.ACTION_VIEW,
-                        Uri.parse("https://github.com/yourusername/zakatgoldcalculator")
+                        Uri.parse("https://github.com/izzhsyhmna/EZY-Zakat-Gold-Calculator")
                 );
                 startActivity(browserIntent);
             } catch (Exception e) {
