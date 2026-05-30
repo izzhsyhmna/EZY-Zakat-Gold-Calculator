@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brand Colors -->
+    <color name="primaryBlue">#13294B</color>
+    <color name="cyanBlue">#2E8DE4</color>
+
+    <!-- Accent -->
+    <color name="goldAccent">#E8B44B</color>
+
+    <!-- Background -->
+    <color name="backgroundCream">#F5F6F8</color>
+
+    <!-- Cards -->
+    <color name="cardWhite">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#1B1B1B</color>
+    <color name="textSecondary">#666666</color>
+
+    <!-- Compatibility -->
+    <color name="textDark">#1B1B1B</color>
+
+    <!-- Standard -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
